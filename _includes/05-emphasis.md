@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Likes to read a lot of books,*
+_A space enthusiast_
+
+**Aspiring to be an isro scientist,**
+__Hobby: watching animes__
+
+_Thanks **for** reading _
